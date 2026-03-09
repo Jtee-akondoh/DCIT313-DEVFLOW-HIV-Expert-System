@@ -36,10 +36,10 @@ An expert system for HIV/AIDS information and risk assessment using Prolog for k
 ### Running the System
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/DCIT313-Group[Name]-HIV-Expert-System.git
+git clone https://github.com/DEVFLOW/DCIT313-Group[Name]-HIV-Expert-System.git
 
 # Navigate to project directory
-cd DCIT313-Group[Name]-HIV-Expert-System
+cd DCIT313-DEVFLOW-HIV-Expert-System
 
 # Run the expert system
 python interface/hiv_expert_system.py
