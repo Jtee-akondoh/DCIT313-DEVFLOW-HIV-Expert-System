@@ -1,11 +1,15 @@
 # HIV/AIDS Expert System
 
-## Group DCIT313-Group[Name]-HIV-Expert-System
+## Group DCIT313-DEVFLOW-HIV-Expert-System
 
 ### Group Members
-- [Name 1] - [Student ID]
-- [Name 2] - [Student ID]  
-- [Name 3] - [Student ID]
+- Adade Priscilla Adwoa - 22049777
+- Beatrice Bansah - 22100696 
+- Noye Magdalene Norkai- 22032918
+- Ted William Ofori- 22070657
+- Joseph Akondoh-Tetteh Kwame Jnr - 22055467
+- Lois Osei-Bonsu - 22044680
+- Edmond K.Dare - 22018183
 
 ## Project Description
 An expert system for HIV/AIDS information and risk assessment using Prolog for knowledge representation and Python for user interface. The system demonstrates symbolic AI principles by separating knowledge (Prolog facts/rules) from inference (Python interface).

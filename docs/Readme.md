@@ -1,9 +1,18 @@
 # HIV/AIDS Expert System - Knowledge Engineering Report
 
 ## Group Members
-- [Name 1] - [Student ID] - Role: Knowledge Base Developer
-- [Name 2] - [Student ID] - Role: Interface Developer  
-- [Name 3] - [Student ID] - Role: Documentation & Testing
+- Adade Priscilla Adwoa - 22049777 
+- Beatrice Bansah - 22100696 
+- Noye Magdalene Norkai- 22032918
+- Ted William Ofori- 22070657
+- Joseph Akondoh-Tetteh Kwame Jnr - 22055467
+- Lois Osei-Bonsu - 22044680
+- Edmond K.Dare - 22018183
+
+Roles
+Project Manager: Lois
+Knowledge Engineers: Priscilla, Beatrice
+Programmers: Ted, Edmond, Magdalene, Joseph
 
 ## System Purpose
 This expert system provides information about HIV/AIDS and assists users in understanding risk factors and symptoms. It demonstrates how symbolic AI can be used to encode medical knowledge into logical rules.
